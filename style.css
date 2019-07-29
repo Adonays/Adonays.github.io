@@ -18,6 +18,13 @@ body{
     margin: 10px;
 }
 
+.borderInput{
+    width: 100px;
+    border: 10px;
+}
 #repaso-title{
     margin-left: 10px;
+}
+ul{
+    list-style-type: decimal;
 }
